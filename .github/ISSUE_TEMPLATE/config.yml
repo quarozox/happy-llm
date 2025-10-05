@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: 📚 Happy-LLM 教程文档
-    url: https://github.com/datawhalechina/happy-llm
-    about: 查看完整的 Happy-LLM 教程文档和代码示例
-  - name: 🐛 快速反馈 / Quick Feedback
-    url: https://github.com/datawhalechina/happy-llm/issues/new?template=book_issue.yml
-    about: 快速报告教程中的问题 / Quickly report issues in the tutorial
